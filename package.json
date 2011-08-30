@@ -3,7 +3,7 @@
   "author": "Kyle Fritz <kyle.p.fritz@gmail.com>",
   "credit": "http://devcenter.heroku.com/articles/node-js",
   "version": "0.0.1",
-  "dependancies":{
+  "dependencies":{
     "express":"2.2.0",
     "datetime":"0.0.3"
   }
